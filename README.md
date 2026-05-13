@@ -1,6 +1,6 @@
 # 📚 LLMs-from-First-Principal
 
-![GPT Architecture Diagram](file:///C:/Users/Lenovo/.gemini/antigravity/artifacts/gpt_architecture_diagram.png)
+![GPT Architecture Diagram](https://towardsdatascience.com/wp-content/uploads/2023/07/10N0aHoN6MzSvFloJiSS1Rg.png)
 
 A **hands‑on, from‑scratch implementation** of the core building blocks of modern Large Language Models (LLMs) – from tokenisation to the full GPT‑style transformer.  This repository is a learning playground for anyone who wants to understand the inner workings of LLMs at a **deep, code‑level** while building a **production‑ready, well‑structured** code base.
 
