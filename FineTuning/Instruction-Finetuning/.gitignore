@@ -1,5 +1,9 @@
 LLM finetuning training.ipynb
 
+gpt2_finetuned_email_classifier.pth
+
 gpt2
 
 124M.tar
+
+gpt2-medium355M-sft.pth
